@@ -56,3 +56,11 @@ Compiled and maintained from upstream [ByteByteGoHq/system-design-101](https://g
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
